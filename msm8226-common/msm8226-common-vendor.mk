@@ -198,7 +198,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/rfsa/adsp/libfastcvadsp.so:system/vendor/lib/rfsa/adsp/libfastcvadsp.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
-    vendor/motorola/msm8226-common/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so
+    vendor/motorola/msm8226-common/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
+    vendor/motorola/msm8226-common/proprietary/lib/libqsap_sdk.so:system/lib/libqsap_sdk.so
 
 PRODUCT_PACKAGES += \
     com.qualcomm.location \
