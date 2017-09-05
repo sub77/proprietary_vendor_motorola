@@ -197,7 +197,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8916-common/proprietary/vendor/qcril.db:system/vendor/qcril.db
 
 PRODUCT_PACKAGES += \
-    libril \
     libHevcSwDecoder \
     TimeService \
     qcrilmsgtunnel \
