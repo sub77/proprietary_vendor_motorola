@@ -96,6 +96,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/libadreno_utils.so:system/vendor/lib/libadreno_utils.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
+    vendor/motorola/msm8226-common/proprietary/vendor/lib/libaptX_encoder.so:system/vendor/lib/libaptX_encoder.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/libaudioalsa.so:system/vendor/lib/libaudioalsa.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
@@ -141,6 +142,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
+    vendor/motorola/msm8226-common/proprietary/vendor/lib/libldacBT_enc.so:system/vendor/lib/libldacBT_enc.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/libmmcamera_faceproc.so:system/vendor/lib/libmmcamera_faceproc.so \
