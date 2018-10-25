@@ -22,8 +22,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/location-mq:system/vendor/bin/location-mq \
-    vendor/motorola/msm8226-common/proprietary/vendor/bin/mm-qcamera-daemon:vendor/bin/mm-qcamera-daemon \
-    vendor/motorola/msm8226-common/proprietary/vendor/bin/mpdecision:vendor/bin/mpdecision \
+    vendor/motorola/msm8226-common/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
+    vendor/motorola/msm8226-common/proprietary/vendor/bin/mpdecision:system/vendor/bin/mpdecision \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd \
     vendor/motorola/msm8226-common/proprietary/bin/qmi_motext_hook:system/bin/qmi_motext_hook \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/qmuxd:system/vendor/bin/qmuxd \
@@ -31,7 +31,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/radish:system/vendor/bin/radish \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/rfs_access:system/vendor/bin/rfs_access \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
-    vendor/motorola/msm8226-common/proprietary/vendor/bin/thermal-engine:vendor/bin/thermal-engine \
+    vendor/motorola/msm8226-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
     vendor/motorola/msm8226-common/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     vendor/motorola/msm8226-common/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
