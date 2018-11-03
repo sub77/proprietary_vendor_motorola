@@ -25,7 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/mpdecision:system/vendor/bin/mpdecision \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd \
-    vendor/motorola/msm8226-common/proprietary/bin/qmi_motext_hook:system/bin/qmi_motext_hook \
+    vendor/motorola/msm8226-common/proprietary/vendor/bin/qmi_motext_hook:system/vendor/bin/qmi_motext_hook \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/qmuxd:system/vendor/bin/qmuxd \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/qseecomd:system/vendor/bin/qseecomd \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/radish:system/vendor/bin/radish \
@@ -68,7 +68,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8226-common/proprietary/lib/libmmcamera_ar0543.so:system/lib/libmmcamera_ar0543.so \
     vendor/motorola/msm8226-common/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/motorola/msm8226-common/proprietary/lib/libmot_sensorlistener.so:system/lib/libmot_sensorlistener.so \
-    vendor/motorola/msm8226-common/proprietary/lib/libmotext_inf.so:system/lib/libmotext_inf.so \
     vendor/motorola/msm8226-common/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
     vendor/motorola/msm8226-common/proprietary/lib/libqmimotext.so:system/lib/libqmimotext.so \
     vendor/motorola/msm8226-common/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
@@ -165,6 +164,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/libmmqjpeg_codec.so:system/vendor/lib/libmmqjpeg_codec.so \
+    vendor/motorola/msm8226-common/proprietary/vendor/lib/libmotext_inf.so:system/vendor/lib/libmotext_inf.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
     vendor/motorola/msm8226-common/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
