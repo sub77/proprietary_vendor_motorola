@@ -33,20 +33,20 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/motorola/msm8226-common/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
-    vendor/motorola/msm8226-common/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
-    vendor/motorola/msm8226-common/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
-    vendor/motorola/msm8226-common/proprietary/etc/firmware/a330_pfp.fw:system/etc/firmware/a330_pfp.fw \
-    vendor/motorola/msm8226-common/proprietary/etc/firmware/a330_pm4.fw:system/etc/firmware/a330_pm4.fw \
-    vendor/motorola/msm8226-common/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
-    vendor/motorola/msm8226-common/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
-    vendor/motorola/msm8226-common/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
-    vendor/motorola/msm8226-common/proprietary/etc/firmware/venus.b00:system/etc/firmware/venus.b00 \
-    vendor/motorola/msm8226-common/proprietary/etc/firmware/venus.b01:system/etc/firmware/venus.b01 \
-    vendor/motorola/msm8226-common/proprietary/etc/firmware/venus.b02:system/etc/firmware/venus.b02 \
-    vendor/motorola/msm8226-common/proprietary/etc/firmware/venus.b03:system/etc/firmware/venus.b03 \
-    vendor/motorola/msm8226-common/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
-    vendor/motorola/msm8226-common/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
-    vendor/motorola/msm8226-common/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
+    vendor/motorola/msm8226-common/proprietary/vendor/firmware/a300_pfp.fw:vendor/firmware/a300_pfp.fw \
+    vendor/motorola/msm8226-common/proprietary/vendor/firmware/a300_pm4.fw:vendor/firmware/a300_pm4.fw \
+    vendor/motorola/msm8226-common/proprietary/vendor/firmware/a330_pfp.fw:vendor/firmware/a330_pfp.fw \
+    vendor/motorola/msm8226-common/proprietary/vendor/firmware/a330_pm4.fw:vendor/firmware/a330_pm4.fw \
+    vendor/motorola/msm8226-common/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:vendor/firmware/cpp_firmware_v1_1_1.fw \
+    vendor/motorola/msm8226-common/proprietary/vendor/firmware/cpp_firmware_v1_1_6.fw:vendor/firmware/cpp_firmware_v1_1_6.fw \
+    vendor/motorola/msm8226-common/proprietary/vendor/firmware/cpp_firmware_v1_2_0.fw:vendor/firmware/cpp_firmware_v1_2_0.fw \
+    vendor/motorola/msm8226-common/proprietary/vendor/firmware/venus.b00:vendor/firmware/venus.b00 \
+    vendor/motorola/msm8226-common/proprietary/vendor/firmware/venus.b01:vendor/firmware/venus.b01 \
+    vendor/motorola/msm8226-common/proprietary/vendor/firmware/venus.b02:vendor/firmware/venus.b02 \
+    vendor/motorola/msm8226-common/proprietary/vendor/firmware/venus.b03:vendor/firmware/venus.b03 \
+    vendor/motorola/msm8226-common/proprietary/vendor/firmware/venus.b04:vendor/firmware/venus.b04 \
+    vendor/motorola/msm8226-common/proprietary/vendor/firmware/venus.mbn:vendor/firmware/venus.mbn \
+    vendor/motorola/msm8226-common/proprietary/vendor/firmware/venus.mdt:vendor/firmware/venus.mdt \
     vendor/motorola/msm8226-common/proprietary/etc/gps.conf:system/etc/gps.conf \
     vendor/motorola/msm8226-common/proprietary/etc/izat.conf:system/etc/izat.conf \
     vendor/motorola/msm8226-common/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
